@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://suneha15.github.io/csb-ewlub/static/css/main.304abe36.chunk.css",
+    "main.js": "https://suneha15.github.io/csb-ewlub/static/js/main.2d7fc465.chunk.js",
+    "main.js.map": "https://suneha15.github.io/csb-ewlub/static/js/main.2d7fc465.chunk.js.map",
+    "runtime-main.js": "https://suneha15.github.io/csb-ewlub/static/js/runtime-main.97e89395.js",
+    "runtime-main.js.map": "https://suneha15.github.io/csb-ewlub/static/js/runtime-main.97e89395.js.map",
+    "static/js/2.9a95e89d.chunk.js": "https://suneha15.github.io/csb-ewlub/static/js/2.9a95e89d.chunk.js",
+    "static/js/2.9a95e89d.chunk.js.map": "https://suneha15.github.io/csb-ewlub/static/js/2.9a95e89d.chunk.js.map",
+    "index.html": "https://suneha15.github.io/csb-ewlub/index.html",
+    "static/css/main.304abe36.chunk.css.map": "https://suneha15.github.io/csb-ewlub/static/css/main.304abe36.chunk.css.map",
+    "static/js/2.9a95e89d.chunk.js.LICENSE.txt": "https://suneha15.github.io/csb-ewlub/static/js/2.9a95e89d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97e89395.js",
+    "static/js/2.9a95e89d.chunk.js",
+    "static/css/main.304abe36.chunk.css",
+    "static/js/main.2d7fc465.chunk.js"
+  ]
+}
